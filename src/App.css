@@ -1,0 +1,42 @@
+
+.App{
+   background-color: #eee;
+   height: 500px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;  
+}
+.description{
+   display: flex;
+   justify-content: center;
+
+}
+
+.name{
+   display: flex;
+   justify-content: center;
+}
+
+ .icones{
+   display: flex;
+   justify-content: center;
+ }
+
+.image{
+display: flex;
+justify-content: center;
+margin-top: 5%;
+}
+ 
+.skill{
+   display: flex;
+   justify-content: space-around;
+   height: 500px;
+   background-color: rgb(235, 203, 203);
+}
+
+.carte {
+   width: 250px;
+   background-color: antiquewhite;
+   border-radius: 10px;
+}
